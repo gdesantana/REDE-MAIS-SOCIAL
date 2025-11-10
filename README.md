@@ -1,2 +1,4 @@
 # REDE-MAIS-SOCIAL
-projeto de software
+
+Projeto orientado pelo professora Ana Paula Rossi
+02/2025 - Noturno
